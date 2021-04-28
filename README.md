@@ -5,7 +5,7 @@ Subkhan Fadilah
 TI.19.A2
 ~~~
 # LANGKAH 1
-# Membuat dokumen html dengan nama lab5_javascript.html, kemudian tambahkan kode berikut.
+# Persiapan membuat dokumen HTML dengan nama file lab5_javascript.html seperti berikut.
 ![1](https://user-images.githubusercontent.com/56526583/116287092-2fa48980-a7ba-11eb-916d-47b55d92affc.png)
 # Java Script Dasar
 # Pemakaian Alert sebagai property window
@@ -30,3 +30,21 @@ Output :
 # Pembuatan Form
 # Form Input
 ![9](https://user-images.githubusercontent.com/56526583/116288248-8494cf80-a7bb-11eb-9272-9b10332dd264.png)
+# Form Button
+![10](https://user-images.githubusercontent.com/56526583/116352013-c2770f80-a81e-11eb-8063-62905428dde7.png)
+# HTML DOM
+![11](https://user-images.githubusercontent.com/56526583/116352153-f05c5400-a81e-11eb-93aa-a6fc0480007b.png)
+## TUGAS
+# 1. Buat script untuk melakukan validasi pada isian form.
+# Buat form pada lab5_javascript.html
+![12](https://user-images.githubusercontent.com/56526583/116352278-1da90200-a81f-11eb-8751-d98b2ea322bc.png)
+# Buat Halaman Beranda pada beranda.html
+![13](https://user-images.githubusercontent.com/56526583/116352334-344f5900-a81f-11eb-85d4-cb5e384e409d.png)
+# Tambahkan codingan style.css
+![14](https://user-images.githubusercontent.com/56526583/116352547-86907a00-a81f-11eb-9b25-b145d9d68ea8.png)
+# Hasil nya :
+![15](https://user-images.githubusercontent.com/56526583/116352620-9f992b00-a81f-11eb-83ef-fd2030248b16.png)
+![16](https://user-images.githubusercontent.com/56526583/116352637-a6c03900-a81f-11eb-8627-99afe5442709.png)
+
+
+
